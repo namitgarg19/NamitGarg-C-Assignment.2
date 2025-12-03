@@ -86,7 +86,7 @@ While making this game, I learned and practiced:
 
 ---
 
-Made by: Namit Garg
-Section: AD
-Roll no.: 12515001002 (38)
-B.Tech CSE – Assignment 2
+-Made by: Namit Garg
+-Section: AD
+-Roll no.: 12515001002 (38)
+-B.Tech CSE – Assignment 2
