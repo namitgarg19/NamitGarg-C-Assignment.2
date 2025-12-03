@@ -72,11 +72,11 @@ RESTART_GAME:
 
         // -------- PLAYER --------
         if (x == 0)
-            printf("| A         |\n");
+            printf("| Y         |\n");
         else if (x == 1)
-            printf("|    A      |\n");
+            printf("|    Y      |\n");
         else
-            printf("|         A |\n");
+            printf("|         Y |\n");
 
         // -------- COLLISION --------
         if (step == 9 && x == obstaclePos) {
